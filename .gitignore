@@ -125,3 +125,4 @@ dmypy.json
 .pyre/
 .idea/House-Number-Detection.iml
 *.xml
+*.png
