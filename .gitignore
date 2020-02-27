@@ -126,3 +126,9 @@ dmypy.json
 .idea/House-Number-Detection.iml
 *.xml
 *.png
+*.mat
+*.m
+*.cfg
+*.bat
+yolo/Scripts/activate
+*.exe
